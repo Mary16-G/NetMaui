@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="IMSSTrabajador.Pages.DisenoStackLayout"
+             Background="Beige">
+    <ScrollView>
+        <VerticalStackLayout>
+            <Label 
+                Text="Bienvenido al Diseño StackLayout!"
+                TextColor="Black"
+                BackgroundColor="Azure"
+                HorizontalTextAlignment="Center">
+            </Label>
+            <Entry x:Name="SueldoT"
+                TextColor="White"
+                   BackgroundColor="Gray"
+                   Placeholder="Capture valor"
+                   PlaceholderColor="White"
+                   HorizontalOptions="Center"/>
+            <Label
+                Text="Seleccione Categoria"
+                TextColor="Black"
+                Margin="0,10,0,0"
+                BackgroundColor="Azure"
+                HorizontalTextAlignment="Center">
+            </Label>
+            <Picker x:Name="Categoria"
+                    TextColor="White"
+                    BackgroundColor="Gray"
+                    Title="Categoria"
+                    TitleColor="White"
+                    HorizontalOptions="Center"
+                    SelectedIndexChanged="Categoria_SelectedIndexChanged">
+            </Picker>
+            <HorizontalStackLayout Margin="0,15,0,0">
+                <Label
+                    Text="Antiguedad"
+                    TextColor="Brown"
+                    Margin="20,10,0,0"
+                    HorizontalOptions="StartAndExpand">
+                </Label>
+                <Frame BorderColor="Red" BackgroundColor="Gray"
+                       Margin="-85,40,0,0" Padding="5,5,5,1"
+                       WidthRequest="150"
+                       HeightRequest="80">
+                    <StackLayout>
+                        <RadioButton x:Name="cinco"
+                            Content="1 a 5 años"
+                            TextColor="White"
+                            GroupName="Categoria">
+                        </RadioButton>
+                        <RadioButton x:Name="diez"
+                            Content="6 a 10 años"
+                            TextColor="White"
+                            GroupName="Categoria">
+                        </RadioButton>
+                    </StackLayout>
+                </Frame>
+                <Label
+                    Text="Certificacion"
+                    TextColor="Brown"
+                    Margin="40,10,0,0"
+                    HorizontalOptions="StartAndExpand">
+                </Label>
+                <Frame BorderColor="Red" BackgroundColor="Gray"
+                       Margin="-110,40,0,0" Padding="5,10,0,0"
+                       WidthRequest="210"
+                       HeightRequest="80">
+                    <HorizontalStackLayout>
+                        <CheckBox x:Name="ISO2001"
+                            VerticalOptions="Start">
+                        </CheckBox>
+                        <Label
+                            Text="ISO 2001">
+                        </Label>
+                        <CheckBox x:Name="ISO9001"
+                            VerticalOptions="Start">
+                        </CheckBox>
+                        <Label
+                            Text="ISO 9001">
+                        </Label>
+                    </HorizontalStackLayout>
+                </Frame>
+            </HorizontalStackLayout>
+            <Button x:Name="Calcular"
+                    Text="Calcular"
+                    TextColor="White"
+                    BackgroundColor="Blue"
+                    Margin="30"
+                    Clicked="Calcular_Clicked">
+            </Button>
+            <Label x:Name="Resultado"
+                   TextColor="OrangeRed"
+                   Margin="20"
+                   HorizontalOptions="Center">
+            </Label>
+            <Button
+                x:Name="Principal"
+                Text="Ir a la Pagina Principal"
+                HorizontalOptions="Fill"
+                Clicked="Principal_Clicked">
+            </Button>
+        </VerticalStackLayout>
+    </ScrollView>
+</ContentPage>

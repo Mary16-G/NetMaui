@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AppBonoAdicional.MainPage"
+             BackgroundColor="#c7c8CA">
+
+    <ScrollView>
+        <StackLayout>
+            <!-- Primera division (Datos del empleado) -->
+            <Frame Margin="10" BackgroundColor="#bababa">
+                <StackLayout>
+                    <Label Margin="0,0,0,10" FontSize="14">Datos del empleado</Label>
+                    <HorizontalStackLayout>
+                        <Label VerticalOptions="Center">Sueldo:</Label>
+                        <Entry x:Name="Sueldo" Placeholder="Sueldo" TextColor="Black" PlaceholderColor="Gray" HorizontalOptions="Center" Margin="5" BackgroundColor="White" />
+                        <Label VerticalOptions="Center" Margin="20,0,0,0">Edad:</Label>
+                        <Entry x:Name="Edad" Placeholder="Edad" TextColor="Black" PlaceholderColor="Gray" HorizontalOptions="Center" Margin="5" BackgroundColor="White"/>
+                    </HorizontalStackLayout>
+                    <HorizontalStackLayout>
+                        <Label VerticalOptions="Center">Sexo:</Label>
+                        <Picker x:Name="Sexo"
+                            TextColor="Black"
+                            Title="Sexo"
+                            TitleColor="Black"
+                            BackgroundColor="White"
+                            HorizontalOptions="Center"
+                            SelectedIndexChanged="Sexo_SelectedIndexChanged">
+                        </Picker>
+                        <Label VerticalOptions="Center" Margin="70,0,0,0">Nacionalidad:</Label>
+                        <Picker x:Name="Nacionalidad"
+                            TextColor="Black"
+                            Title="Nacionalidad"
+                            TitleColor="Black"
+                            BackgroundColor="White"
+                            HorizontalOptions="Center"
+                            SelectedIndexChanged="Nacionalidad_SelectedIndexChanged">
+                        </Picker>
+                    </HorizontalStackLayout>
+                </StackLayout>
+            </Frame>
+
+            <!-- Cursos -->
+            <StackLayout Orientation="Horizontal" Padding="10,30,0,0">
+
+                <Frame Padding="15,15,15,0" BackgroundColor="#bababa">
+                    <StackLayout Orientation="Vertical">
+                        <Label Text="Cursos" TextColor="Black" />
+                        <StackLayout Orientation="Horizontal">
+                            <CheckBox x:Name="PHPCheckBox" Color="Black" />
+                            <Label Text="PHP" TextColor="Black" VerticalOptions="Center"/>
+                            <CheckBox x:Name="JAVACheckBox" Color="Black" Margin="30,0,0,0" />
+                            <Label Text="JAVA" TextColor="Black" VerticalOptions="Center"/>
+                        </StackLayout>
+                        <StackLayout Orientation="Horizontal">
+                            <CheckBox x:Name="ASPNETCheckBox" Color="Black" />
+                            <Label Text="ASP.NET" TextColor="Black" VerticalOptions="Center"/>
+                            <CheckBox x:Name="ORACLECheckBox" Color="Black" Margin="5,0,0,0" />
+                            <Label Text="ORACLE" TextColor="Black" VerticalOptions="Center"/>
+                        </StackLayout>
+                    </StackLayout>
+                </Frame>
+                <!-- Antiguedad -->
+                <Frame Padding="30,11,10,0" Margin="10,0,0,0" BackgroundColor="#bababa">
+                    <StackLayout Orientation="Vertical">
+                        <Label Margin="0,0,0,10">Antiguedad</Label>
+                        <StackLayout Orientation="Horizontal">
+                            <RadioButton x:Name="cinco"
+                        Content="1 a 5 años"
+                        TextColor="Black"
+                        GroupName="Categoria">
+                            </RadioButton>
+                        </StackLayout>
+                        <StackLayout Orientation="Horizontal">
+                            <RadioButton x:Name="diez"
+                        Content="6 a 10 años"
+                        TextColor="Black"
+                        GroupName="Categoria">
+                            </RadioButton>
+                        </StackLayout>
+                    </StackLayout>
+                </Frame>
+            </StackLayout>
+            <!-- Botones y Bono -->
+            <StackLayout>
+                <HorizontalStackLayout>
+                    <Button x:Name="Calcular" Text="Calcular" Margin="120,20,20,0" Clicked="Calcular_Clicked" BackgroundColor="#9c9c9c"/>
+                    <Label VerticalOptions="Center">Bono:</Label>
+                    <Entry x:Name="Bono" TextColor="Gray" BackgroundColor="White" HorizontalOptions="Center" Margin="10" IsReadOnly="True"/>
+                </HorizontalStackLayout>
+            </StackLayout>
+            <Button x:Name="Nuevo_Calculo" Text="Nuevo calculo" Margin="120,20,170,0" Clicked="Nuevo_Calculo_Clicked" BackgroundColor="#9c9c9c"/>
+           
+        </StackLayout>
+    </ScrollView>
+
+</ContentPage>

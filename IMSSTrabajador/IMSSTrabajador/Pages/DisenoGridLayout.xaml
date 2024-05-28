@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="IMSSTrabajador.Pages.DisenoGridLayout"
+             BackgroundColor="Beige">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto">
+            </RowDefinition>
+            <RowDefinition Height="auto">
+            </RowDefinition>
+            <RowDefinition Height="auto">
+            </RowDefinition>
+            <RowDefinition Height="auto">
+            </RowDefinition>
+            <RowDefinition Height="auto">
+            </RowDefinition>
+            <RowDefinition Height="auto">
+            </RowDefinition>
+            <RowDefinition Height="auto">
+            </RowDefinition>
+            <RowDefinition Height="auto">
+            </RowDefinition>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="auto"></ColumnDefinition>
+            <ColumnDefinition Width="auto"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <Grid Grid.Row="0" Grid.ColumnSpan="2">
+            <Label Text="Capture Sueldo del Trabajador"
+                   TextColor="Black"
+                   BackgroundColor="Azure"
+                   HorizontalTextAlignment="Center"></Label>
+        </Grid>
+        <Grid Grid.Row="1" Grid.ColumnSpan="2">
+            <Entry x:Name="SueldoT"
+                   TextColor="White"
+                   BackgroundColor="Gray"
+                   Placeholder="Capture valor"
+                   PlaceholderColor="White"
+                   HorizontalOptions="Center"/>
+        </Grid>
+        <Grid Grid.Row="2" Grid.ColumnSpan="2">
+            <Label Text="Seleccione Categoria"
+                   TextColor="Black"
+                   Margin="0,10,0,0"
+                   BackgroundColor="Azure"
+                   HorizontalTextAlignment="Center">
+            </Label>
+        </Grid>
+        <Grid Grid.Row="3" Grid.ColumnSpan="2">
+            <Picker x:Name="Categoria"
+                    TextColor="White"
+                    BackgroundColor="Gray"
+                    Title="Categoria"
+                    TitleColor="White"
+                    HorizontalOptions="Center"
+                    SelectedIndexChanged="Categoria_SelectedIndexChanged">
+            </Picker>
+        </Grid>
+        <Grid Grid.Row="4" Grid.Column="0" Margin="10,0,15,0">
+            <VerticalStackLayout>
+                <Label Text="Antiguedad"
+                       TextColor="Brown"
+                       Margin="20,10,0,0"
+                       HorizontalOptions="StartAndExpand">
+                </Label>
+                <Frame BorderColor="Red" BackgroundColor="Gray"
+                       Padding="5,5,5,3"
+                       WidthRequest="150"
+                       HeightRequest="80">
+                    <VerticalStackLayout>
+                        <RadioButton x:Name="cinco"
+                                     Content="1 a 5 años"
+                                     TextColor="White"
+                                     GroupName="Categoria">
+                        </RadioButton>
+                        <RadioButton x:Name="diez"
+                                     Content="6 a 10 años"
+                                     TextColor="White"
+                                     GroupName="Categoria">
+                        </RadioButton>
+                    </VerticalStackLayout>
+                </Frame>
+            </VerticalStackLayout>
+        </Grid>
+        <Grid Grid.Row="4" Grid.Column="1">
+            <VerticalStackLayout>
+                <Label
+                    Text="Certificacion"
+                    TextColor="Brown"
+                    Margin="20,10,0,0"
+                    HorizontalOptions="StartAndExpand"></Label>
+                <Frame BorderColor="Red" BackgroundColor="Gray"
+                       Padding="5,10,0,0"
+                       WidthRequest="210"
+                       HeightRequest="80">
+                    <HorizontalStackLayout>
+                        <CheckBox x:Name="ISO2001"
+                                  VerticalOptions="Start">
+                        </CheckBox>
+                        <Label Text="ISO 2001"/>
+                        <CheckBox x:Name="ISO9001"
+                                  VerticalOptions="Start">
+                        </CheckBox>
+                        <Label Text="ISO 9001"/>
+                    </HorizontalStackLayout>
+                </Frame>
+            </VerticalStackLayout>
+        </Grid>
+        <Grid Grid.Row="5" Grid.ColumnSpan="2">
+            <Button x:Name="Calcular"
+                    Text="Calcular"
+                    TextColor="White"
+                    BackgroundColor="Blue"
+                    Margin="30"
+                    Clicked="Calcular_Clicked">
+            </Button>
+        </Grid>
+        <Grid Grid.Row="6" Grid.ColumnSpan="2">
+            <Label x:Name="Resultado"
+                   TextColor="OrangeRed"
+                   Margin="20"
+                   HorizontalOptions="Center">
+            </Label>
+        </Grid>
+        <Grid Grid.Row="7" Grid.ColumnSpan="2">
+            <Button
+                x:Name="Principal"
+                Text="Ir a la Pagina Principal"
+                HorizontalOptions="Fill"
+                Clicked="Principal_Clicked">
+            </Button>
+        </Grid>
+    </Grid>
+    
+</ContentPage>

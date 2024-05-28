@@ -1,0 +1,313 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\CrafterJe\\source\\repos\\IMSSTrabajador\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AB44D81D-00E7-4BF4-A597-0D38904A086C}|IMSSTrabajador\\IMSSTrabajador.csproj|c:\\users\\crafterje\\source\\repos\\imsstrabajador\\imsstrabajador\\pages\\disenogridlayout.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AB44D81D-00E7-4BF4-A597-0D38904A086C}|IMSSTrabajador\\IMSSTrabajador.csproj|solutionrelative:imsstrabajador\\pages\\disenogridlayout.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB44D81D-00E7-4BF4-A597-0D38904A086C}|IMSSTrabajador\\IMSSTrabajador.csproj|c:\\users\\crafterje\\source\\repos\\imsstrabajador\\imsstrabajador\\pages\\disenogridlayout.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB44D81D-00E7-4BF4-A597-0D38904A086C}|IMSSTrabajador\\IMSSTrabajador.csproj|solutionrelative:imsstrabajador\\pages\\disenogridlayout.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB44D81D-00E7-4BF4-A597-0D38904A086C}|IMSSTrabajador\\IMSSTrabajador.csproj|c:\\users\\crafterje\\source\\repos\\imsstrabajador\\imsstrabajador\\pages\\disenostacklayout.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB44D81D-00E7-4BF4-A597-0D38904A086C}|IMSSTrabajador\\IMSSTrabajador.csproj|solutionrelative:imsstrabajador\\pages\\disenostacklayout.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB44D81D-00E7-4BF4-A597-0D38904A086C}|IMSSTrabajador\\IMSSTrabajador.csproj|c:\\users\\crafterje\\source\\repos\\imsstrabajador\\imsstrabajador\\model\\sueldo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB44D81D-00E7-4BF4-A597-0D38904A086C}|IMSSTrabajador\\IMSSTrabajador.csproj|solutionrelative:imsstrabajador\\model\\sueldo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB44D81D-00E7-4BF4-A597-0D38904A086C}|IMSSTrabajador\\IMSSTrabajador.csproj|c:\\users\\crafterje\\source\\repos\\imsstrabajador\\imsstrabajador\\imsstrabajador.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AB44D81D-00E7-4BF4-A597-0D38904A086C}|IMSSTrabajador\\IMSSTrabajador.csproj|solutionrelative:imsstrabajador\\imsstrabajador.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB44D81D-00E7-4BF4-A597-0D38904A086C}|IMSSTrabajador\\IMSSTrabajador.csproj|c:\\users\\crafterje\\source\\repos\\imsstrabajador\\imsstrabajador\\pages\\disenostacklayout.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AB44D81D-00E7-4BF4-A597-0D38904A086C}|IMSSTrabajador\\IMSSTrabajador.csproj|solutionrelative:imsstrabajador\\pages\\disenostacklayout.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB44D81D-00E7-4BF4-A597-0D38904A086C}|IMSSTrabajador\\IMSSTrabajador.csproj|c:\\users\\crafterje\\source\\repos\\imsstrabajador\\imsstrabajador\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AB44D81D-00E7-4BF4-A597-0D38904A086C}|IMSSTrabajador\\IMSSTrabajador.csproj|solutionrelative:imsstrabajador\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB44D81D-00E7-4BF4-A597-0D38904A086C}|IMSSTrabajador\\IMSSTrabajador.csproj|c:\\users\\crafterje\\source\\repos\\imsstrabajador\\imsstrabajador\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB44D81D-00E7-4BF4-A597-0D38904A086C}|IMSSTrabajador\\IMSSTrabajador.csproj|solutionrelative:imsstrabajador\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB44D81D-00E7-4BF4-A597-0D38904A086C}|IMSSTrabajador\\IMSSTrabajador.csproj|c:\\users\\crafterje\\source\\repos\\imsstrabajador\\imsstrabajador\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB44D81D-00E7-4BF4-A597-0D38904A086C}|IMSSTrabajador\\IMSSTrabajador.csproj|solutionrelative:imsstrabajador\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB44D81D-00E7-4BF4-A597-0D38904A086C}|IMSSTrabajador\\IMSSTrabajador.csproj|c:\\users\\crafterje\\source\\repos\\imsstrabajador\\imsstrabajador\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB44D81D-00E7-4BF4-A597-0D38904A086C}|IMSSTrabajador\\IMSSTrabajador.csproj|solutionrelative:imsstrabajador\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB44D81D-00E7-4BF4-A597-0D38904A086C}|IMSSTrabajador\\IMSSTrabajador.csproj|c:\\users\\crafterje\\source\\repos\\imsstrabajador\\imsstrabajador\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AB44D81D-00E7-4BF4-A597-0D38904A086C}|IMSSTrabajador\\IMSSTrabajador.csproj|solutionrelative:imsstrabajador\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB44D81D-00E7-4BF4-A597-0D38904A086C}|IMSSTrabajador\\IMSSTrabajador.csproj|c:\\users\\crafterje\\source\\repos\\imsstrabajador\\imsstrabajador\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AB44D81D-00E7-4BF4-A597-0D38904A086C}|IMSSTrabajador\\IMSSTrabajador.csproj|solutionrelative:imsstrabajador\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 269,
+          "SelectedChildIndex": 27,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b38c6cbc-524d-4f30-8a18-936e3104b734}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3db98ce8-14f0-4b05-9b6a-b9dbe8fa94ab}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{2d4d7b63-2712-49a6-a309-3ff689de5696}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:11:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:275484497:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Sueldo.cs",
+              "DocumentMoniker": "C:\\Users\\CrafterJe\\source\\repos\\IMSSTrabajador\\IMSSTrabajador\\Model\\Sueldo.cs",
+              "RelativeDocumentMoniker": "IMSSTrabajador\\Model\\Sueldo.cs",
+              "ToolTip": "C:\\Users\\CrafterJe\\source\\repos\\IMSSTrabajador\\IMSSTrabajador\\Model\\Sueldo.cs",
+              "RelativeToolTip": "IMSSTrabajador\\Model\\Sueldo.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAuwBUAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-24T19:20:37.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IMSSTrabajador.csproj",
+              "DocumentMoniker": "C:\\Users\\CrafterJe\\source\\repos\\IMSSTrabajador\\IMSSTrabajador\\IMSSTrabajador.csproj",
+              "RelativeDocumentMoniker": "IMSSTrabajador\\IMSSTrabajador.csproj",
+              "ToolTip": "C:\\Users\\CrafterJe\\source\\repos\\IMSSTrabajador\\IMSSTrabajador\\IMSSTrabajador.csproj",
+              "RelativeToolTip": "IMSSTrabajador\\IMSSTrabajador.csproj",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-02-24T17:29:59.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DisenoStackLayout.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\CrafterJe\\source\\repos\\IMSSTrabajador\\IMSSTrabajador\\Pages\\DisenoStackLayout.xaml.cs",
+              "RelativeDocumentMoniker": "IMSSTrabajador\\Pages\\DisenoStackLayout.xaml.cs",
+              "ToolTip": "C:\\Users\\CrafterJe\\source\\repos\\IMSSTrabajador\\IMSSTrabajador\\Pages\\DisenoStackLayout.xaml.cs",
+              "RelativeToolTip": "IMSSTrabajador\\Pages\\DisenoStackLayout.xaml.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAowBgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-24T17:28:12.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DisenoStackLayout.xaml",
+              "DocumentMoniker": "C:\\Users\\CrafterJe\\source\\repos\\IMSSTrabajador\\IMSSTrabajador\\Pages\\DisenoStackLayout.xaml",
+              "RelativeDocumentMoniker": "IMSSTrabajador\\Pages\\DisenoStackLayout.xaml",
+              "ToolTip": "C:\\Users\\CrafterJe\\source\\repos\\IMSSTrabajador\\IMSSTrabajador\\Pages\\DisenoStackLayout.xaml",
+              "RelativeToolTip": "IMSSTrabajador\\Pages\\DisenoStackLayout.xaml",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAACAAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-02-24T17:28:08.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\CrafterJe\\source\\repos\\IMSSTrabajador\\IMSSTrabajador\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "IMSSTrabajador\\MauiProgram.cs",
+              "ToolTip": "C:\\Users\\CrafterJe\\source\\repos\\IMSSTrabajador\\IMSSTrabajador\\MauiProgram.cs",
+              "RelativeToolTip": "IMSSTrabajador\\MauiProgram.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-24T17:27:35.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\CrafterJe\\source\\repos\\IMSSTrabajador\\IMSSTrabajador\\AppShell.xaml",
+              "RelativeDocumentMoniker": "IMSSTrabajador\\AppShell.xaml",
+              "ToolTip": "C:\\Users\\CrafterJe\\source\\repos\\IMSSTrabajador\\IMSSTrabajador\\AppShell.xaml",
+              "RelativeToolTip": "IMSSTrabajador\\AppShell.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-02-24T17:27:32.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\CrafterJe\\source\\repos\\IMSSTrabajador\\IMSSTrabajador\\App.xaml",
+              "RelativeDocumentMoniker": "IMSSTrabajador\\App.xaml",
+              "ToolTip": "C:\\Users\\CrafterJe\\source\\repos\\IMSSTrabajador\\IMSSTrabajador\\App.xaml",
+              "RelativeToolTip": "IMSSTrabajador\\App.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-02-24T17:27:30.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\CrafterJe\\source\\repos\\IMSSTrabajador\\IMSSTrabajador\\App.xaml.cs",
+              "RelativeDocumentMoniker": "IMSSTrabajador\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\CrafterJe\\source\\repos\\IMSSTrabajador\\IMSSTrabajador\\App.xaml.cs",
+              "RelativeToolTip": "IMSSTrabajador\\App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-24T17:23:07.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DisenoGridLayout.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\CrafterJe\\source\\repos\\IMSSTrabajador\\IMSSTrabajador\\Pages\\DisenoGridLayout.xaml.cs",
+              "RelativeDocumentMoniker": "IMSSTrabajador\\Pages\\DisenoGridLayout.xaml.cs",
+              "ToolTip": "C:\\Users\\CrafterJe\\source\\repos\\IMSSTrabajador\\IMSSTrabajador\\Pages\\DisenoGridLayout.xaml.cs",
+              "RelativeToolTip": "IMSSTrabajador\\Pages\\DisenoGridLayout.xaml.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAA2wB4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-24T17:19:32.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DisenoGridLayout.xaml",
+              "DocumentMoniker": "C:\\Users\\CrafterJe\\source\\repos\\IMSSTrabajador\\IMSSTrabajador\\Pages\\DisenoGridLayout.xaml",
+              "RelativeDocumentMoniker": "IMSSTrabajador\\Pages\\DisenoGridLayout.xaml",
+              "ToolTip": "C:\\Users\\CrafterJe\\source\\repos\\IMSSTrabajador\\IMSSTrabajador\\Pages\\DisenoGridLayout.xaml",
+              "RelativeToolTip": "IMSSTrabajador\\Pages\\DisenoGridLayout.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-02-24T17:16:10.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\CrafterJe\\source\\repos\\IMSSTrabajador\\IMSSTrabajador\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "IMSSTrabajador\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\CrafterJe\\source\\repos\\IMSSTrabajador\\IMSSTrabajador\\MainPage.xaml.cs",
+              "RelativeToolTip": "IMSSTrabajador\\MainPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-24T17:13:10.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\CrafterJe\\source\\repos\\IMSSTrabajador\\IMSSTrabajador\\MainPage.xaml",
+              "RelativeDocumentMoniker": "IMSSTrabajador\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\CrafterJe\\source\\repos\\IMSSTrabajador\\IMSSTrabajador\\MainPage.xaml",
+              "RelativeToolTip": "IMSSTrabajador\\MainPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-02-24T17:05:17.143Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 25,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{131369f2-062d-44a2-8671-91ff31efb4f4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
